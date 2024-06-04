@@ -3,3 +3,9 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+fastapi==0.70.0
+uvicorn==0.15.0
+qrcode==7.3
+
+
+pillow==8.2.0
